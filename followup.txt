@@ -1,0 +1,1 @@
+Oi! Antes de escrever uma proposta, preferi construir o sistema — dashboard com KPIs, gestao de afiliados, fechamento financeiro com carry over, e tudo mais que voce descreveu ja esta funcionando aqui: https://github.com/nightfairy5831/igaming-affiliates — da uma olhada e me conta o que achou.
